@@ -1,2 +1,2 @@
 # startup-of-the-year
-Just practising the github
+https://jamilajoya.github.io/startup-of-the-year/
